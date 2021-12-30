@@ -8,7 +8,7 @@ public class Numerology
 	int day = 0;
 	int year = 0;
 	int result = 0;
-	String prediction = null;
+	String prediction;
 	
 	public void crunchPrediction()
 	{
