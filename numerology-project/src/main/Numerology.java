@@ -2,6 +2,7 @@ package main;
 
 public class Numerology 
 {
+	
 	Numerology(){}
 	
 	int month = 0;
